@@ -1,9 +1,8 @@
 # Marcel's Starcraft II hotkeys
 
 This is a fork of Marcel's Starcraft II hotkeys. There are a few key rebindings. One is
-to move drag scroll to the key "R". I dislike the tension in my right hand when I squeeze
-the thumb button and scroll to move. Correspondingly all keys mapped to "R" originally
-are now mapped to "E", and the control group for "E" is removed.
+to move drag scroll to the key "E". I dislike the tension in my right hand when I squeeze
+the thumb button and scroll to move.
 
 ==============================
 
